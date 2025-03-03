@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:ModalesXD/call-of-politic-api.git
+[submodule "dashboard"]
+	path = dashboard
+	url = git@github.com:ModalesXD/call-of-politic-web.git
+[submodule "bot"]
+	path = bot
+	url = git@github.com:ModalesXD/call-of-politic-bot.git
